@@ -1,0 +1,7 @@
+{
+  "name": "SAHAAYAAI – Healthcare That Understands You",
+  "description": "An AI-powered healthcare accessibility and navigation platform that converts complicated medical documents into simple, accessible, multilingual, and actionable information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
